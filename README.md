@@ -1,2 +1,7 @@
 # PaperImplementations
-Implementing papers
+
+Implemented Papers:
+- AlexNet
+- VGG
+- ResNet
+- GoogLeNet
