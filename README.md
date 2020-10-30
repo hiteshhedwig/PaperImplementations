@@ -5,3 +5,5 @@ Implemented Papers:
 - VGG
 - ResNet
 - GoogLeNet
+- Inception v2
+- Xception (Upcoming) 
