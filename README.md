@@ -6,4 +6,4 @@ Implemented Papers:
 - ResNet
 - GoogLeNet
 - Inception v2
-- Xception (Upcoming) 
+- Xception 
