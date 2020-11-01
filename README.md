@@ -1,4 +1,4 @@
-# PaperImplementations
+# Paper-Implementations
 
 Implemented Papers:
 - AlexNet
