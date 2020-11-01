@@ -7,4 +7,4 @@ Implemented Papers:
 - GoogLeNet
 - Inception v2
 - Xception 
-- MobileNet
+- MobileNet (Upcoming)
