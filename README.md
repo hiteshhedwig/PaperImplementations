@@ -1,4 +1,4 @@
-# Paper-Implementations
+# Paper-Implementations in Pytorch
 
 Implemented Papers:
 - AlexNet
