@@ -1,10 +1,14 @@
 # Paper-Implementations in Pytorch
 
 Implemented Papers:
+(Architectures)
 - AlexNet
 - VGG
 - ResNet
 - GoogLeNet
 - Inception v2
 - Xception 
-- MobileNet (Upcoming)
+- MobileNet
+(Semantic Segmentation)
+- FCN (Upcoming)
+
