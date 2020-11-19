@@ -11,4 +11,4 @@ Implemented Papers:
 - MobileNet
 > **(Semantic Segmentation)**
 - FCN (Upcoming)
-
+- SegNet (Upcoming)
