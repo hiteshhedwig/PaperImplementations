@@ -10,5 +10,6 @@ Implemented Papers:
 - Xception 
 - MobileNet
 > **(Semantic Segmentation)**
-- FCN (Upcoming)
-- SegNet (Upcoming)
+- FCN 
+- SegNet 
+- UNet (Upcoming)
