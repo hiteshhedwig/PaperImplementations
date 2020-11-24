@@ -12,4 +12,5 @@ Implemented Papers:
 > **(Semantic Segmentation)**
 - FCN 
 - SegNet 
-- UNet (Upcoming)
+- UNet 
+- PSPNet (Upcoming)
