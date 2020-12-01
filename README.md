@@ -13,4 +13,5 @@ Implemented Papers:
 - FCN 
 - SegNet 
 - UNet 
-- PSPNet (Upcoming)
+- PSPNet 
+- DeepLab
