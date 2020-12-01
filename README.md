@@ -14,4 +14,4 @@ Implemented Papers:
 - SegNet 
 - UNet 
 - PSPNet 
-- DeepLab
+- DeepLab (Upcoming)
