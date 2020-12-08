@@ -14,4 +14,7 @@ Implemented Papers:
 - SegNet 
 - UNet 
 - PSPNet 
-- DeepLab (Upcoming)
+- DeepLab 
+> **(Generative adversarial networks)**
+- GAN (simple)
+- DCGAN (upcoming)
